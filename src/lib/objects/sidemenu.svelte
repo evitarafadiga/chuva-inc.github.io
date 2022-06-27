@@ -1,7 +1,7 @@
 <script>
-import MenuItem from "$lib/components/MenuItem.svelte";
-import MenuItemLogo from "$lib/components/MenuItemLogo.svelte";
-import MenuItemTop from "$lib/components/MenuItemTop.svelte";
+import MenuItem from "$lib/components/menuitem.svelte";
+import MenuItemLogo from "$lib/components/menuitemlogo.svelte";
+import MenuItemTop from "$lib/components/menuitemtop.svelte";
 
 </script>
 

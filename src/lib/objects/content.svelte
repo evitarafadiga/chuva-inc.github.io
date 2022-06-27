@@ -1,7 +1,7 @@
 <script>
-import Card from "./Card.svelte";
-import Discussoes from "./Discussoes.svelte";
-import Resumo from "./Resumo.svelte";
+
+import Discussoes from "./discussoes.svelte";
+import Resumo from "./resumo.svelte";
 
 
 </script>

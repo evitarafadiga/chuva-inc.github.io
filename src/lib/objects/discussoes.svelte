@@ -1,6 +1,6 @@
 <script>
-import Button from "./Button.svelte";
-import Card from "./Card.svelte";
+import Button from "./button.svelte";
+import Card from "./card.svelte";
 
 let icon1 = '../src/public/icone1.png'
 let icon2 = '../src/public/icone2.png'

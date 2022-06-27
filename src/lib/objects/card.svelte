@@ -1,7 +1,5 @@
 <script>
-import CardHeader from "$lib/components/CardHeader.svelte";
-
-
+import CardHeader from "$lib/components/cardheader.svelte";
 </script>
 
 <main>

@@ -1,7 +1,5 @@
 <script>
-import Rectangle from "$lib/objects/Rectangle.svelte";
-
-
+import Rectangle from "$lib/objects/rectangle.svelte";
 </script>
 
 <main>

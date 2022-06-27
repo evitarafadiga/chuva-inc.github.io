@@ -1,17 +1,17 @@
 <script>
-import Video from "$lib/components/Video.svelte";
-import Button from "$lib/objects/Button.svelte";
-import Content from "$lib/objects/Content.svelte";
-import Detalhes from "$lib/objects/Detalhes.svelte";
+import Video from "$lib/components/video.svelte";
+import Button from "$lib/objects/button.svelte";
+import Content from "$lib/objects/content.svelte";
+import Detalhes from "$lib/objects/detalhes.svelte";
 
-import Footer from "$lib/objects/Footer.svelte";
-import Header from "$lib/objects/Header.svelte";
-import Sidemenu from "$lib/objects/Sidemenu.svelte";
+import Footer from "$lib/objects/footer.svelte";
+import Header from "$lib/objects/header.svelte";
+import SideMenu from "$lib/objects/sidemenu.svelte";
 </script>
 
 <div class="grid grid-cols-[220px_minmax(1058px,_1fr)_45px] gap-0">
     <div class="w-[220px]">
-        <Sidemenu />
+        <SideMenu />
     </div>
     <div class="bg-local">
         <div class="">

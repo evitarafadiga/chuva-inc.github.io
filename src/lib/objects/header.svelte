@@ -1,5 +1,5 @@
 <script>
-import LanguageButton from "$lib/components/LanguageButton.svelte";
+import LanguageButton from "$lib/components/languagebutton.svelte";
 
 </script>
 

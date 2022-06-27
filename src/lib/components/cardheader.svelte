@@ -1,5 +1,5 @@
 <script>
-import Button from "$lib/objects/Button.svelte";
+import Button from "$lib/objects/button.svelte";
 
 </script>
 
